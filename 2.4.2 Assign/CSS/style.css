@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+}
+.redfont {
+    color: red;
+}
+.bluefont{
+    color:blue
+}
+.greenfont {
+    color: green;
+}
+.styledFont {
+    color: green;
+    font-size: large;
+}
+.titlecenter {
+    text-align: center;
+}
+.bigfont {
+    font-size: xx-large;
+}
+.tinyfont {
+    font-size: xx-small;
+}
+.bold {
+    font-weight: bold;
+}
+#font-size {
+    font-size: 14;
+}
+#multi {
+    font-size: x-large;
+    color: orange;
+    font-weight: bold;
+}
+#styledImage {
+    height: 500px;
+    width: 500px;
+    border: 10px;
+    border-color: orange;
+
+  
+    
+}
